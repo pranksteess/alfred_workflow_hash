@@ -4,6 +4,7 @@
 
 - Alfred App v4
 - Python3
+  - pip3 install pysha3
 
 ## Install
 
